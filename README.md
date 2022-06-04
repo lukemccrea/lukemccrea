@@ -1,5 +1,6 @@
-Hi, I am @lukemccrea26. I enjoy web development.
-I know JavaScript, HTML, and CSS and I am learning C#.
+# [Luke McCrea](https://thelukemccrea.com)
+Hi, I am @lukemccrea. I enjoy web development.
+I know JavaScript, HTML, CSS, Python and C#. I enjoy make games with Unity and C# as well as developing applications for Rpasberyy Pi. You can view my personal website [here](https://thelukemccrea.com).
 
 <!---
 lukemccrea26/lukemccrea26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
